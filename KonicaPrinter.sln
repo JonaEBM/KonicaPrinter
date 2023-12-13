@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KonicaPrinter", "KonicaPrinter\KonicaPrinter.pyproj", "{2D1AD0E5-BF94-41DB-866B-7D11E67D9D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1AD0E5-BF94-41DB-866B-7D11E67D9D4D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1AD0E5-BF94-41DB-866B-7D11E67D9D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC7ABA7-C647-43B9-8A02-E4709E026B33}
+	EndGlobalSection
+EndGlobal
