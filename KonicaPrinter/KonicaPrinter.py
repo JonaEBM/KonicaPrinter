@@ -134,7 +134,7 @@ if __name__ == '__main__':
         processes.append(p)
         p.start()
 
-    #Ejecuta los hilos
+    #Editando desde pc
     for p in processes:
        p.join()
 
