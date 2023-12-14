@@ -5,11 +5,6 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KonicaPrinter", "KonicaPrinter\KonicaPrinter.pyproj", "{2D1AD0E5-BF94-41DB-866B-7D11E67D9D4D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3E36ABC-CC97-46A6-ADC9-AC0EEF351597}"
-	ProjectSection(SolutionItems) = preProject
-		example.py = example.py
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
